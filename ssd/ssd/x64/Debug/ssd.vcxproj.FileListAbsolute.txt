@@ -1,0 +1,3 @@
+C:\Users\dell\Desktop\assignments\assignments\semester 7\SSD Project\ssd\ssd\x64\Debug\ssd.vcxproj.AssemblyReference.cache
+C:\Users\dell\Desktop\assignments\assignments\semester 7\SSD Project\ssd\ssd\x64\Debug\ssd.MyForm.resources
+C:\Users\dell\Desktop\assignments\assignments\semester 7\SSD Project\ssd\ssd\x64\Debug\ssd.vcxproj.GenerateResource.cache
